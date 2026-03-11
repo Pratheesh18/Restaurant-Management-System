@@ -5,3 +5,4 @@ obj/
 *.suo
 *.log
 appsettings.json
+appsettings.Development.json
